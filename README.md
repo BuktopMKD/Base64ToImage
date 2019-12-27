@@ -20,4 +20,4 @@ Kotlin support
 * **Viktor Jovanovski**
 
 ## Web site
-* [Den Of Developers](https://rometools.github.io/rome/) - You can find us here
+* [Den Of Developers](https://denofdevelopers.com/) - You can find us here
